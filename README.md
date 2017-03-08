@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Julia Cournoyer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We are creating a photo gallery utilizing elements by ids, tagnames, and removing and adding document nodes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://juliacournoyer.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to change src value attributes
+2. How to access an element based off of its id, name, etc.
+3. How to increase interactivity on a webpage
